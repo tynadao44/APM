@@ -63,3 +63,4 @@ C:\Users\tidao\Documents\Visual Studio 2013\Projects\APM\APM.WebAPI\bin\Microsof
 C:\Users\tidao\Documents\Visual Studio 2013\Projects\APM\APM.WebAPI\bin\System.Web.Http.Owin.xml
 C:\Users\tidao\Documents\Visual Studio 2013\Projects\APM\APM.WebAPI\obj\Debug\APM.WebAPI.dll
 C:\Users\tidao\Documents\Visual Studio 2013\Projects\APM\APM.WebAPI\obj\Debug\APM.WebAPI.pdb
+C:\Users\tidao\Documents\Visual Studio 2013\Projects\APM\APM.WebAPI\obj\Debug\APM.WebAPI.csprojResolveAssemblyReference.cache
